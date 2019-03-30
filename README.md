@@ -20,7 +20,7 @@ from PandasBasketball import pandasbasketball as pb
 ```
 
 ## Requirements
-Please make sure you meet the following rquirements:
+These requirement will also install with PandasBasketball:
 - Python 3.6+
 - requests
 - pandas
